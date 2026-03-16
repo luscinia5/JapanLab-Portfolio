@@ -1,4 +1,4 @@
-# Anki Ripoff But In Java
+# Anki but in Java
 
 A java-based flashcard-like program for learning Japanese vocabulary, mainly
 kanji and furigana
